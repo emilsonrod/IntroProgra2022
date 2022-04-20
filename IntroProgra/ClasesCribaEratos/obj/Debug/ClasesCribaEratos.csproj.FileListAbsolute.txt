@@ -1,0 +1,5 @@
+C:\Users\emils\source\repos\IntroProgra\ClasesCribaEratos\bin\Debug\ClasesCribaEratos.dll
+C:\Users\emils\source\repos\IntroProgra\ClasesCribaEratos\bin\Debug\ClasesCribaEratos.pdb
+C:\Users\emils\source\repos\IntroProgra\ClasesCribaEratos\obj\Debug\ClasesCribaEratos.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\IntroProgra\ClasesCribaEratos\obj\Debug\ClasesCribaEratos.dll
+C:\Users\emils\source\repos\IntroProgra\ClasesCribaEratos\obj\Debug\ClasesCribaEratos.pdb

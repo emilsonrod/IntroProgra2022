@@ -1,0 +1,10 @@
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\bin\Debug\IntroProgra.exe.config
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\bin\Debug\IntroProgra.exe
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\bin\Debug\IntroProgra.pdb
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\obj\Debug\IntroProgra.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\obj\Debug\IntroProgra.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\obj\Debug\IntroProgra.exe
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\obj\Debug\IntroProgra.pdb
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\bin\Debug\ClasesCribaEratos.dll
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\bin\Debug\ClasesCribaEratos.pdb
+C:\Users\emils\source\repos\IntroProgra\IntroProgra\obj\Debug\IntroProgra.csproj.CopyComplete

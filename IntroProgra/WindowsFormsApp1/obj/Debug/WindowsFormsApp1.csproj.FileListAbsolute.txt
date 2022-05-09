@@ -1,0 +1,15 @@
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\bin\Debug\ClasesCribaEratos.dll
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\bin\Debug\ClasesCribaEratos.pdb
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormInicioCriba.resources
+C:\Users\emils\source\repos\IntroProgra\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ProcesarCriba.resources

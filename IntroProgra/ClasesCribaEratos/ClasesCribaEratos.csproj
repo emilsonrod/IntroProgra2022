@@ -41,8 +41,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ClasesBase\Empleado.cs" />
+    <Compile Include="ClasesBase\Persona.cs" />
+    <Compile Include="ClasesHija\Consultor.cs" />
+    <Compile Include="ClasesHija\EmpleadoPlanta.cs" />
+    <Compile Include="ClasesImplemento\FiltroApellido.cs" />
+    <Compile Include="ClasesImplemento\FiltroCodigoEmpleado.cs" />
+    <Compile Include="ClasesImplemento\FiltroNombre.cs" />
+    <Compile Include="ClasesImplemento\FiltroSueldo.cs" />
+    <Compile Include="ClasesInterface\IFilter.cs" />
+    <Compile Include="Controllers\EmpleadoController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="VectorEratos.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

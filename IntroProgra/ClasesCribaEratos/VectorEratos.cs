@@ -14,10 +14,23 @@ namespace ClasesCribaEratos
             lista = new int[tamanio - 1];
         }
 
+        public VectorEratos()
+        {
+        }
+
         public int[] Lista { get { return lista; } }
 
         public void IniciarLista()
         {
+            for (int index = 0; index < lista.Length; index++)
+            {
+                lista[index] = index + 2;
+            }
+        }
+
+        public void IniciarLista(int tamanio)
+        {
+            lista = new int[tamanio - 1];
             for (int index = 0; index < lista.Length; index++)
             {
                 lista[index] = index + 2;

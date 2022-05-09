@@ -1,0 +1,16 @@
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\bin\Debug\ManejadorEmpleados.exe.config
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\bin\Debug\ManejadorEmpleados.exe
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\bin\Debug\ManejadorEmpleados.pdb
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\bin\Debug\ClasesCribaEratos.dll
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\bin\Debug\ClasesCribaEratos.pdb
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.csprojAssemblyReference.cache
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.EmpleadoPlanta.resources
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.Form1.resources
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.Properties.Resources.resources
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.csproj.GenerateResource.cache
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.csproj.CopyComplete
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.exe
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.pdb
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.EmpleadoConsultor.resources
+C:\Users\emils\source\repos\IntroProgra\ManejadorEmpleados\obj\Debug\ManejadorEmpleados.ListaEmpleados.resources

@@ -5,11 +5,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using IntroProgra.Criba;
+using ClasesCribaEratos.Controllers;
 
 namespace IntroProgra
 {
     class Program
     {
+        static EmpleadoController controller;
+
         static void Main(string[] args)
         {
 
@@ -225,11 +228,72 @@ namespace IntroProgra
             //carnet1.AnioNacimiento = carnet1.AnioNacimiento + 55;
             //Console.WriteLine(carnet1.AnioNacimiento);
             //Console.WriteLine(carnet2.AnioNacimiento);
-            CribaEratos criba = new CribaEratos();
-            criba.IniciarCriba();
-            criba.MostrarLista();
-            criba.ProcesarCriba();
-            criba.MostrarLista();
+            //CribaEratos criba = new CribaEratos();
+            //criba.IniciarCriba();
+            //criba.MostrarLista();
+            //criba.ProcesarCriba();
+            //criba.MostrarLista();
+
+            // aca seria una variable local
+            //EmpleadoController controller;
+            controller = new EmpleadoController();
+            while (true) 
+            {
+                Console.WriteLine("Seleccione un submenu");
+                Console.WriteLine("1 Ingresar Empleado");
+                Console.WriteLine("2 Ver lista Empleados");
+                int subMenu = Convert.ToInt32(Console.ReadLine());
+                switch (subMenu) 
+                {
+                    case 1:
+                        AgregarNuevoEmpleado();
+                        break;
+                    case 2:
+                        VerEmpleados();
+                        break;
+                }
+            }
+        }
+
+        private static void AgregarNuevoEmpleado()
+        {
+            Console.WriteLine("Seleccione un submenu");
+            Console.WriteLine("1 Ingresar Empleado Planta");
+            Console.WriteLine("2 Ingresar Consultor");
+            int submenu = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresar Nombre");
+            string nombre = Console.ReadLine();
+            Console.WriteLine("Ingresar Apellido");
+            string apellido = Console.ReadLine();
+            Console.WriteLine("Ingresar Ci");
+            int ci = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Ingresar Codigo Empleado");
+            int codigoEMpleado = Convert.ToInt32(Console.ReadLine());
+            switch (submenu) 
+            {
+                case 1:                   
+                    Console.WriteLine("Ingresar Cod Asegurado");
+                    string codigoAsegurado = Console.ReadLine();
+                    Console.WriteLine("Ingresar Sueldo");
+                    double sueldo = Convert.ToDouble(Console.ReadLine());
+                    controller.AgregarEmpleadoPlanta(nombre, apellido,ci,
+                        codigoEMpleado, codigoAsegurado, sueldo);
+                    break;
+                case 2:
+                    Console.WriteLine("Ingresar Sueldo");
+                    double pagoHora = Convert.ToDouble(Console.ReadLine());
+                    controller.AgregarCOnsultor(nombre, apellido, ci,
+                        codigoEMpleado, pagoHora);
+                    break;
+            }
+        }
+
+        private static void VerEmpleados()
+        {
+            foreach (string empleado in controller.VerListaEmpleados(176))
+            {
+                Console.WriteLine(empleado);
+            }
         }
 
         //public static int Fibonacci(int index)
